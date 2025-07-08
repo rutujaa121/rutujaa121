@@ -1,6 +1,6 @@
 ## HI  I AM RUTUJA 👋
 
-![PersonalComputerLaptopGIF](https://github.com/user-attachments/assets/c44b6b6d-0ff8-4084-995e-71d453390cf6)
+<div> ![PersonalComputerLaptopGIF](https://github.com/user-attachments/assets/c44b6b6d-0ff8-4084-995e-71d453390cf6) </div>
 
 
 <!--
