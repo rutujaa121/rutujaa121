@@ -1,5 +1,9 @@
 ## HI  I AM RUTUJA 👋
 
+![PersonalComputerLaptopGIF](https://github.com/user-attachments/assets/c44b6b6d-0ff8-4084-995e-71d453390cf6)
+
+
+
 <!--
 **rutujaa121/rutujaa121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
