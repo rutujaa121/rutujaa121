@@ -1,7 +1,11 @@
 ## HI  I AM RUTUJA 👋
 
-<video src="![PersonalComputerLaptopGIF](https://github.com/user-attachments/assets/c44b6b6d-0ff8-4084-995e-71d453390cf6)">
+<p align="center" style="color:white"><img src="./KEYBOARD_GIF.gif" alt="rutujaa121" width="100%" height="220px" style="border-radius:4px"/>"Every line of code you type is a conversation with your keyboard make it meaningful."</p> 
+  
 
+<!-- 
+<video src="![PersonalComputerLaptopGIF](https://github.com/user-attachments/assets/c44b6b6d-0ff8-4084-995e-71d453390cf6)">
+-->
 <!--
 ![CodingHowToSellDrugsOnlineFastGIF](https://github.com/user-attachments/assets/14b22d8b-f303-4db7-9aec-b597b75389ac)
 ![CodingKiraGIF](https://github.com/user-attachments/assets/e6ddbb3a-5e0b-4cad-9be8-a9f49a210799)   
