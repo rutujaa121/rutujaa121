@@ -3,13 +3,11 @@
 ![PersonalComputerLaptopGIF](https://github.com/user-attachments/assets/c44b6b6d-0ff8-4084-995e-71d453390cf6)
 
 
-
+<!--
 ![CodingHowToSellDrugsOnlineFastGIF](https://github.com/user-attachments/assets/14b22d8b-f303-4db7-9aec-b597b75389ac)
-![CodingKiraGIF](https://github.com/user-attachments/assets/e6ddbb3a-5e0b-4cad-9be8-a9f49a210799)
+![CodingKiraGIF](https://github.com/user-attachments/assets/e6ddbb3a-5e0b-4cad-9be8-a9f49a210799)   
 
-
-
-
+-->
 
 
 <!--
