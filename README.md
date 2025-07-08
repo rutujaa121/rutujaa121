@@ -1,7 +1,6 @@
 ## HI  I AM RUTUJA 👋
 
-<div> ![PersonalComputerLaptopGIF](https://github.com/user-attachments/assets/c44b6b6d-0ff8-4084-995e-71d453390cf6) </div>
-
+<video src="![PersonalComputerLaptopGIF](https://github.com/user-attachments/assets/c44b6b6d-0ff8-4084-995e-71d453390cf6)">
 
 <!--
 ![CodingHowToSellDrugsOnlineFastGIF](https://github.com/user-attachments/assets/14b22d8b-f303-4db7-9aec-b597b75389ac)
