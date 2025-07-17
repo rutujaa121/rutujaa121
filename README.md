@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## HI I AM RUTUJA 
+<p align="center" style="color:white"><img src="./KEYBOARD_GIF.gif" alt="sarrthak008" width="100%" height="220px" style="border-radius:4px"/>"Every line of code you type is a conversation with your keyboard make it meaningful."</p> 
+  
 <!--
 **rutujaa121/rutujaa121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
