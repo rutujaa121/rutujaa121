@@ -1,5 +1,5 @@
 <h1 align="center">HI I AM RUTUJA 👋</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shraddha021&label=Profile%20views&color=0e75b6&style=flat" alt="shraddha021" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutujaa121&label=Profile%20views&color=0e75b6&style=flat" alt="rutujaa121" /> </p>
 
 
 <p align="center" style="color:white"><img src="![CodingKiraGIF](https://github.com/user-attachments/assets/a9c786a5-ce13-44fb-87ba-60f8c9af2724)
