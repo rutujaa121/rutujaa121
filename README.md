@@ -3,8 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=40&color=001d27&lines=Hi+I'm+Rutuja👋;" alt="Typing SVG"/>
 </h1>
 
-<h3>👨‍💻 Full‑stack Developer | React · Node.js</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutujaa121&label=Profile%20views&color=0e75b6&style=flat" alt="rutujaa121" /> </p>
 
+<h3> 👨‍💻 Full‑stack Developer | Open‑Source Enthusiast | JavaScript • React • Node.js </h3>
 - 🔭 Building scalable web applications & open-source tools  
 - 💙 Passionate about clean code, UX, and community collaboration  
 - 📫 Reach me: rutujaaugale@gmail.com  
