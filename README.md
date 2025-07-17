@@ -3,14 +3,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=40&color=001d27&lines=Hi+I'm+Rutuja👋;" alt="Typing SVG"/>
 </h1>
 
-<h3 align="center">👨‍💻 Full‑stack Developer | React · Node.js</h3>
+<h3>👨‍💻 Full‑stack Developer | React · Node.js</h3>
 
 - 🔭 Building scalable web applications & open-source tools  
 - 💙 Passionate about clean code, UX, and community collaboration  
-- 📫 Reach me: your.email@example.com  
+- 📫 Reach me: rutujaaugale@gmail.com  
 
-<h4 align="center">  "Every line of code you type is a conversation with your keyboard make it meaningful."  </h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutujaa121&label=Profile%20views&color=0e75b6&style=flat" alt="rutujaa121" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutujaa121&show_icons=true&locale=en&layout=compact" alt="rutujaa121" /></p>
 
