@@ -23,15 +23,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutujaa121&" alt="rutujaa121" /></p>
 
-![GitHub followers](https://img.shields.io/github/followers/rutujak24?style=social)
-# Welcome to My Profile
-
-[![GitHub followers](https://img.shields.io/github/followers/rutujak24?style=social)](https://github.com/rutujak24)
-
-<p align="center">
-  ![GitHub followers](https://img.shields.io/github/followers/rutujaa121?style=social)
-  ![GitHub stars](https://img.shields.io/github/stars/rutujaa121?style=social)
-</p>
 
 
 <!--
