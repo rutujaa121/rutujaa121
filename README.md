@@ -25,6 +25,11 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/rutujak24?style=social)](https://github.com/rutujak24)
 
+<p align="center">
+  ![GitHub followers](https://img.shields.io/github/followers/rutujaa121?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/rutujaa121?style=social)
+</p>
+
 
 <!--
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=rutujaa121&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy" alt="rutujaa121" /> </p>
