@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutujaa121&label=Profile%20views&color=0e75b6&style=flat" alt="rutujaa121" /> 
 <img src="https://img.shields.io/github/followers/rutujaa121?style=flat-square)" alt="rutujaa121" />
+<img src="https://img.shields.io/github/stars/rutujaa121?style=social" alt="rutujaa121" />
 </p>
 
 
