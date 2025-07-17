@@ -1,5 +1,6 @@
-## HI I AM RUTUJA ![CodingKiraGIF (2)](https://github.com/user-attachments/assets/143372c4-50cb-41df-97c9-4624d9bea2f6)
-!https://pin.it/7gdM0a35X
+<h1 align="center">HI I AM RUTUJA 👋</h1>
+<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+
 <p align="center" style="color:white"><img src="![CodingKiraGIF](https://github.com/user-attachments/assets/a9c786a5-ce13-44fb-87ba-60f8c9af2724)
 " alt="rutujaa121" width="100%" height="220px" style="border-radius:4px"/></p>
   "Every line of code you type is a conversation with your keyboard make it meaningful." 
