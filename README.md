@@ -1,4 +1,4 @@
-## HI I AM RUTUJA ![JakeIsGIF](https://github.com/user-attachments/assets/c82fce66-83cb-4f52-8185-d5d17084024d)
+## HI I AM RUTUJA ![CodingKiraGIF (2)](https://github.com/user-attachments/assets/143372c4-50cb-41df-97c9-4624d9bea2f6)
 
 <p align="center" style="color:white"><img src="![CodingKiraGIF](https://github.com/user-attachments/assets/a9c786a5-ce13-44fb-87ba-60f8c9af2724)
 " alt="rutujaa121" width="100%" height="220px" style="border-radius:4px"/>"Every line of code you type is a conversation with your keyboard make it meaningful."</p> 
