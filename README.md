@@ -1,4 +1,9 @@
 <h1 align="center">HI I AM RUTUJA 👋</h1>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=36&color=black&lines=Hi+there!+I'm+ RUTUJA;" alt="Typing SVG"/>
+</h1>
+
 <h3 align="center">Full-Stack Developer👩‍💻💻</h3>
 <h4 align="center">  "Every line of code you type is a conversation with your keyboard make it meaningful."  </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutujaa121&label=Profile%20views&color=0e75b6&style=flat" alt="rutujaa121" /> </p>
@@ -9,9 +14,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutujaa121&" alt="rutujaa121" /></p>
 
- <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=36&color=00BFFF&lines=Hi+there!+I'm+Your+Name;" alt="Typing SVG"/>
-</h1>
+ 
 
 ### 👨‍💻 Full‑stack Developer | React · Node.js · AWS
 
