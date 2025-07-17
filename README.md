@@ -6,8 +6,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujaa121&show_icons=true&locale=en" alt="rutujaa121" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shraddha021&" alt="shraddha021" /></p>
 
-  "Every line of code you type is a conversation with your keyboard make it meaningful." 
+ 
   
 <!--
 **rutujaa121/rutujaa121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
