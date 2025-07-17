@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutujaa121&label=Profile%20views&color=0e75b6&style=flat" alt="rutujaa121" /> </p>
 
 <h3> 👨‍💻 Full‑stack Developer | Open‑Source Enthusiast | JavaScript • React • Node.js </h3>
-- 🔭 Building scalable web applications & open-source tools  
-- 💙 Passionate about clean code, UX, and community collaboration  
-- 📫 Reach me: rutujaaugale@gmail.com  
+<p> - 🔭 Building scalable web applications & open-source tools  </p>
+<p> - 💙 Passionate about clean code, UX, and community collaboration </p> 
+<p> - 📫 Reach me: rutujaaugale@gmail.com   </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutujaa121&show_icons=true&locale=en&layout=compact" alt="rutujaa121" /></p>
