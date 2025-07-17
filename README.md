@@ -3,7 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=40&color=001d27&lines=Hi+I'm+Rutuja👋;" alt="Typing SVG"/>
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutujaa121&label=Profile%20views&color=0e75b6&style=flat" alt="rutujaa121" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutujaa121&label=Profile%20views&color=0e75b6&style=flat" alt="rutujaa121" /> 
+<img src="https://img.shields.io/github/followers/rutujaa121?style=flat-square)" alt="rutujaa121" />
+</p>
+
 
 <h3> 👨‍💻 Full‑stack Developer | Open‑Source Enthusiast | JavaScript • React • Node.js </h3>
 <p> - 🔭 Building scalable web applications & open-source tools  </p>
@@ -20,7 +23,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutujaa121&" alt="rutujaa121" /></p>
 
 ![GitHub followers](https://img.shields.io/github/followers/rutujak24?style=social)
-![GitHub followers](https://img.shields.io/github/followers/rutujak24?style=flat-square)
 # Welcome to My Profile
 
 [![GitHub followers](https://img.shields.io/github/followers/rutujak24?style=social)](https://github.com/rutujak24)
