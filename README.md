@@ -1,5 +1,6 @@
 <h1 align="center">HI I AM RUTUJA 👋</h1>
-<img align="right" alt="Coding" width="400" src="https://www.vecteezy.com/video/12561365-typing-php-code-on-screen-by-web-developer-and-php-developer-shows-computer-screen-with-source-code-of-website-and-server-scripts-for-modern-applications-in-secure-object-oriented-programming-language">typing-php-code-on-screen-by-web-developer-and-php-developer-shows-computer-screen-with-source-code-of-website-and-server-scripts-for-modern-applications-in-secure-object-oriented-programming-language Stock Videos by Vecteezy">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shraddha021&label=Profile%20views&color=0e75b6&style=flat" alt="shraddha021" /> </p>
+
 
 <p align="center" style="color:white"><img src="![CodingKiraGIF](https://github.com/user-attachments/assets/a9c786a5-ce13-44fb-87ba-60f8c9af2724)
 " alt="rutujaa121" width="100%" height="220px" style="border-radius:4px"/></p>
