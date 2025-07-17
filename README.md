@@ -9,7 +9,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutujaa121&" alt="rutujaa121" /></p>
 
- 
+ <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=36&color=00BFFF&lines=Hi+there!+I'm+Your+Name;" alt="Typing SVG"/>
+</h1>
+
+### 👨‍💻 Full‑stack Developer | React · Node.js · AWS
+
+- 🔭 Building scalable web applications & open-source tools  
+- 💙 Passionate about clean code, UX, and community collaboration  
+- 📫 Reach me: your.email@example.com  
+
   
 <!--
 **rutujaa121/rutujaa121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
