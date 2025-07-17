@@ -18,8 +18,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutujaa121&" alt="rutujaa121" /></p>
 
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=rutujaa121&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy" alt="rutujaa121" /> </p>
 
+<!--
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=rutujaa121&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy" alt="rutujaa121" /> </p>
+-->
 
 
   
