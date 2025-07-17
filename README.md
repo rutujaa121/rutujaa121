@@ -19,7 +19,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutujaa121&" alt="rutujaa121" /></p>
 
-![Build Status](https://github.com/OWNER/REPOSITORY/actions/workflows/WORKFLOW-FILE/badge.svg)
+![GitHub followers](https://img.shields.io/github/followers/rutujak24?style=social)
+![GitHub followers](https://img.shields.io/github/followers/rutujak24?style=flat-square)
+# Welcome to My Profile
+
+[![GitHub followers](https://img.shields.io/github/followers/rutujak24?style=social)](https://github.com/rutujak24)
 
 
 <!--
