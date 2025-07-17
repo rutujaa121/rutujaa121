@@ -1,12 +1,13 @@
 <h1 align="center">HI I AM RUTUJA 👋</h1>
 <h3 align="center">Full-Stack Developer👩‍💻💻</h3>
+<h4 align="center">  "Every line of code you type is a conversation with your keyboard make it meaningful."  </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutujaa121&label=Profile%20views&color=0e75b6&style=flat" alt="rutujaa121" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutujaa121&show_icons=true&locale=en&layout=compact" alt="rutujaa121" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujaa121&show_icons=true&locale=en" alt="rutujaa121" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shraddha021&" alt="shraddha021" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutujaa121&" alt="rutujaa121" /></p>
 
  
   
