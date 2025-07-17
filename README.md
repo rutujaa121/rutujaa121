@@ -1,7 +1,7 @@
 <!-- <h1 align="center">HI I AM RUTUJA 👋</h1> -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=40&color=001d27&lines=Hi+I'm+Rutuja 👋;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=40&color=001d27&lines=Hi+I'm+Rutuja+👋;" alt="Typing SVG"/>
 </h1>
 
 <h3 align="center">Full-Stack Developer👩‍💻💻</h3>
