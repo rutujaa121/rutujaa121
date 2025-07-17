@@ -1,10 +1,14 @@
-<!-- <h1 align="center">HI I AM RUTUJA 👋</h1> -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=40&color=001d27&lines=Hi+I'm+Rutuja+👋;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=40&color=001d27&lines=Hi+I'm+Rutuja👋;" alt="Typing SVG"/>
 </h1>
 
-<h3 align="center">Full-Stack Developer👩‍💻💻</h3>
+<h3 align="center">👨‍💻 Full‑stack Developer | React · Node.js</h3>
+
+- 🔭 Building scalable web applications & open-source tools  
+- 💙 Passionate about clean code, UX, and community collaboration  
+- 📫 Reach me: your.email@example.com  
+
 <h4 align="center">  "Every line of code you type is a conversation with your keyboard make it meaningful."  </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutujaa121&label=Profile%20views&color=0e75b6&style=flat" alt="rutujaa121" /> </p>
 
@@ -16,11 +20,7 @@
 
  
 
-### 👨‍💻 Full‑stack Developer | React · Node.js · AWS
 
-- 🔭 Building scalable web applications & open-source tools  
-- 💙 Passionate about clean code, UX, and community collaboration  
-- 📫 Reach me: your.email@example.com  
 
   
 <!--
