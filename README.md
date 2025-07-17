@@ -17,7 +17,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutujaa121&" alt="rutujaa121" /></p>
 
-![License](https://img.shields.io/badge/license-MIT-green?style=flat)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rutujaa121&show_icons=true&theme=radical)
 
 
 <!--
