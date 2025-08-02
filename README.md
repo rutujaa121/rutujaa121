@@ -14,7 +14,11 @@
 <p> - 💙 Passionate about clean code, UX, and community collaboration </p> 
 <p> - 📫 Reach me: rutujaaugale@gmail.com   </p>
 
+<p>![CodingGIF](https://github.com/user-attachments/assets/faa07296-f4a9-4ecf-b98d-2ca7d22df6c6)
+![NgodingMuluGIF](https://github.com/user-attachments/assets/2ecaaf1e-8915-49e9-aabc-70a6257c92f4)
+</p>
 
+<p><img src="https://github.com/user-attachments/assets/faa07296-f4a9-4ecf-b98d-2ca7d22df6c6" alt="rutujaa121" /> </p>
 
 <h4>🐙 ɢɪᴛʜᴜʙ sᴛᴀᴛs</h4>
 <p>  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujaa121&show_icons=true&theme=radical" alt="rutujaa121" /></p>
