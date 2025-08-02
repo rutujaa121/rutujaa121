@@ -18,6 +18,8 @@
 
 <p><img src="https://github.com/user-attachments/assets/faa07296-f4a9-4ecf-b98d-2ca7d22df6c6" alt="rutujaa121" /> </p>
 
+![KeyboardBlackpinkGIF](https://github.com/user-attachments/assets/cebbe339-f90c-4b36-85fb-0dc4c36ec737)
+
 
 ![BannerDiscordGIF](https://github.com/user-attachments/assets/9deed662-550c-4ba6-907b-d7bfe38ab1b1)
 
