@@ -1,4 +1,8 @@
-
+<style>
+  .image_file{
+      border-radius:20px;
+  }
+</style>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=40&lines=Hi+I'm+Rutuja👋;" alt="Typing SVG"/>
 </h1>
@@ -16,7 +20,7 @@
 <p> - 📫 Reach me: rutujaaugale@gmail.com   </p>
 
 
-<p align="center" style="border-radius:9px"><img src="https://github.com/user-attachments/assets/cebbe339-f90c-4b36-85fb-0dc4c36ec737" height="250px" width="90%" style="border-radius:9px" alt="rutujaa121" /> </p>
+<p align="center" class="image_file" style="border-radius:9px"><img src="https://github.com/user-attachments/assets/cebbe339-f90c-4b36-85fb-0dc4c36ec737" height="250px" width="90%" alt="rutujaa121" /> </p>
 
 
 <!--
