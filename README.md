@@ -19,16 +19,9 @@
 <h4>🐙 ɢɪᴛʜᴜʙ sᴛᴀᴛs</h4>
 <p>  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujaa121&show_icons=true&theme=radical" alt="rutujaa121" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutujaa121&show_icons=true&locale=en&layout=compact" alt="rutujaa121" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutujaa121&show_icons=true&locale=en&theme=radical&layout=compact" alt="rutujaa121" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutujaa121&" alt="rutujaa121" /></p>
-
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutujak24&show_icons=true&theme=transparent" alt="Rutuja's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujak24&layout=compact&theme=transparent&langs_count=8" alt="Rutuja's Top Languages" />
-</p>
-
 
 
 
