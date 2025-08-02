@@ -16,14 +16,13 @@
 <p> - 📫 Reach me: rutujaaugale@gmail.com   </p>
 
 
-<p><img src="https://github.com/user-attachments/assets/faa07296-f4a9-4ecf-b98d-2ca7d22df6c6" alt="rutujaa121" /> </p>
-
-![KeyboardBlackpinkGIF](https://github.com/user-attachments/assets/cebbe339-f90c-4b36-85fb-0dc4c36ec737)
+<p><img src="https://github.com/user-attachments/assets/cebbe339-f90c-4b36-85fb-0dc4c36ec737" alt="rutujaa121" /> </p>
 
 
-![BannerDiscordGIF](https://github.com/user-attachments/assets/9deed662-550c-4ba6-907b-d7bfe38ab1b1)
+<!--
+![BannerDiscordGIF](https://github.com/user-attachments/assets/9deed662-550c-4ba6-907b-d7bfe38ab1b1) 
+-->
 
-![CodingGIF (2)](https://github.com/user-attachments/assets/df4883e5-52dd-4646-89bb-b750da816eaf)
 
 
 <h4>🐙 ɢɪᴛʜᴜʙ sᴛᴀᴛs</h4>
