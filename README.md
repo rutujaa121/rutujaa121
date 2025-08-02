@@ -1,5 +1,5 @@
 <style>
-  .image_file{
+  .image_file img{
       border-radius:20px;
   }
 </style>
