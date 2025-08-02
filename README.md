@@ -25,7 +25,7 @@
 
 
 
-<h4>🐙 ɢɪᴛʜᴜʙ sᴛᴀᴛs</h4>
+<h3>📊 ɢɪᴛʜᴜʙ sᴛᴀᴛs</h3>
 <p>  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujaa121&show_icons=true&theme=radical" alt="rutujaa121" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutujaa121&show_icons=true&locale=en&layout=compact" alt="rutujaa121" /></p>
