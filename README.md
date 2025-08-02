@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/github/stars/rutujaa121?style=flat-square" alt="rutujaa121" />
 </p>
 
-<p><img src="https://github.com/rutujak24/REPO/actions/workflows/main.yml/badge.svg" alt="rutujaa121" /></p>
+<p><img src="https://github.com/rutujaa121/REPO/actions/workflows/main.yml/badge.svg" alt="rutujaa121" /></p>
 
 <h3> 👨‍💻 Full‑stack Developer | Open‑Source Enthusiast | JavaScript • React • Node.js </h3>
 <p> - 🔭 Building scalable web applications & open-source tools  </p>
