@@ -28,9 +28,6 @@
 <h3>📊 ɢɪᴛʜᴜʙ sᴛᴀᴛs</h3>
 <p>  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujaa121&show_icons=true&theme=radical" alt="rutujaa121" /></p>  
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onkar-shidore&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>  -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutujaa121&show_icons=true&locale=en&layout=compact" alt="rutujaa121" /></p>
 
@@ -38,9 +35,9 @@
 
 
 
-<!--
+
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=rutujaa121&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy" alt="rutujaa121" /> </p>
--->
+
 
 
 <!--
