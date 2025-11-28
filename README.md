@@ -16,7 +16,7 @@
 <p> - 📫 Reach me: rutujaaugale@gmail.com </p>   
 
 
-<h5>🌐 CONNECT WITH ME </h5>   
+<!-- <h5>🌐 CONNECT WITH ME </h5>   
 
 <p align="left">
   <a href="mailto:rutujaaugale@gmail.com">
@@ -28,7 +28,7 @@
   <a href="https://twitter.com/Rutuja_Ugale" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a> 
-</p>
+</p> -->
 
 <p align="center" style="border-radius:9px"><img src="https://github.com/user-attachments/assets/cebbe339-f90c-4b36-85fb-0dc4c36ec737" height="250px" width="90%" alt="rutujaa121" /> </p>
 
