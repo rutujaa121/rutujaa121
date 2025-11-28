@@ -30,11 +30,10 @@
   </a> 
 
 
-<p align="center" style="border-radius:9px"><img src="https://github.com/user-attachments/assets/cebbe339-f90c-4b36-85fb-0dc4c36ec737" height="250px" width="90%" alt="rutujaa121" /> </p>
+<!-- <p align="center" style="border-radius:9px"><img src="https://github.com/user-attachments/assets/cebbe339-f90c-4b36-85fb-0dc4c36ec737" height="250px" width="90%" alt="rutujaa121" /> </p> -->
 
 
 <p align="center"><img src="https://github.com/user-attachments/assets/7d5edab1-c7ac-42e1-85e1-5e02b30dec75" height="250" width="90%" /> </p>
-
 
 
 <!--
