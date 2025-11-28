@@ -15,9 +15,8 @@
 <p> - 💙 Passionate about clean code, UX, and community collaboration </p>
 <p> - 📫 Reach me: rutujaaugale@gmail.com </p>   
 
----
 
-<h5><b>🌐 CONNECT WITH ME</b></h5>   
+<h5>🌐 CONNECT WITH ME </h5>   
 
 <p align="left">
   <a href="mailto:rutujaaugale@gmail.com">
@@ -31,8 +30,6 @@
   </a> 
 </p>
 
-
-
 <p align="center" style="border-radius:9px"><img src="https://github.com/user-attachments/assets/cebbe339-f90c-4b36-85fb-0dc4c36ec737" height="250px" width="90%" alt="rutujaa121" /> </p>
 
 
@@ -40,7 +37,6 @@
 ![BannerDiscordGIF](https://github.com/user-attachments/assets/9deed662-550c-4ba6-907b-d7bfe38ab1b1) 
 -->
 
----
 
 <h3>📊 ɢɪᴛʜᴜʙ sᴛᴀᴛs</h3>
 <p>  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujaa121&show_icons=true&theme=radical" alt="rutujaa121" /></p>  
