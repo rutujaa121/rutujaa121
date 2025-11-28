@@ -15,6 +15,8 @@
 <p> - 💙 Passionate about clean code, UX, and community collaboration </p>
 <p> - 📫 Reach me: rutujaaugale@gmail.com </p>   
 
+---
+
 <h5>🌐 CONNECT WITH ME</h5>   
 
 <p align="left">
