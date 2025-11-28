@@ -13,8 +13,21 @@
 <h3> 👨‍💻 Full‑stack Developer | Open‑Source Enthusiast | JavaScript • React • Node.js </h3>
 <p> - 🔭 Building scalable web applications & open-source tools  </p>
 <p> - 💙 Passionate about clean code, UX, and community collaboration </p>
-<p> - 📫 Reach me: **rutujaaugale@gmail.com </p>   
-- 📧 Reach me at **rutujaaugale@gmail.com** 
+<p> - 📫 Reach me: rutujaaugale@gmail.com </p>   
+
+<h5>🌐 Connect With Me</h5>   
+
+<p align="center">
+  <a href="mailto:rutujaaugale@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+   <a href="https://linkedin.com/in/rutuja-ugale" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/Rutuja_Ugale" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a> 
+</p>
 
 <p align="center" style="border-radius:9px"><img src="https://github.com/user-attachments/assets/cebbe339-f90c-4b36-85fb-0dc4c36ec737" height="250px" width="90%" alt="rutujaa121" /> </p>
 
